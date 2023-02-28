@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: rgb(30, 29, 70);
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
